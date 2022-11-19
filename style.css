@@ -1,0 +1,20 @@
+/* body {
+    background-color: red;
+} */
+
+slider-image {
+    max-height: 800px !important;
+    object-fit: cover;
+}
+
+.service_icon {
+    font-size: 90px;
+    color: blueviolet;
+}
+
+.background1 {
+    color: white;
+    background-color: #000000;
+    background-attachment: fixed;
+    background-size: cover;
+}
